@@ -2,11 +2,11 @@ public class CountSymmetricsIntegers {
 
     public static void main(String[] args) {
 
-        System.out.println("Symmetics Numbers: " + countSymmetricIntegers(1, 100));
+        System.out.println("Symmetics Numbers: " + solution(1, 100));
 
     }
 
-    public static int countSymmetricIntegers(int low, int high) {
+    public static int solution(int low, int high) {
 
         int symmetrics = 0;
 
