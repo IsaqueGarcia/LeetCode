@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class CountSymmetricsIntegers {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class SwapPairNodes {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class RemoveNodeFromList {
 
     public static void main(String[] args) {
